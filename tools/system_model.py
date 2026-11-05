@@ -107,6 +107,14 @@ def monthly_demand():
 
 
 # ---------------------------------------------------------------- simulation --
+def stagnation_dt(g, coll):
+    """Absorber overtemperature at zero efficiency (dry stagnation), K."""
+    a1, a2, eta0 = coll["a1"], coll["a2"], coll["eta0"]
+    if a2 <= 0:
+        return eta0 * g / a1
+    return (-a1 + (a1 * a1 + 4.0 * a2 * eta0 * g) ** 0.5) / (2.0 * a2)
+
+
 def simulate(n_coll, coll, v_buf, dhw_vol=200.0):
     hourly, _, _, _, _ = load_weather()
     q_heat_m = monthly_demand()
@@ -145,6 +153,11 @@ def simulate(n_coll, coll, v_buf, dhw_vol=200.0):
     t_bot_m = [0.0] * 12
     hcnt = [0] * 12
     run_hours = 0
+    stag_hours = 0                      # buffer at max + strong sun -> stagnation window
+    hot_hours = 0                       # buffer top above 90 C
+    hot_days = 0
+    hot_day = ""
+    t_max = 0.0
 
     for r in hourly:
         mon = int(r["time"][4:6]) - 1
@@ -170,6 +183,7 @@ def simulate(n_coll, coll, v_buf, dhw_vol=200.0):
                 yield_m[mon] += q_left
 
                 # coil 1 of the DHW tank has priority
+                q_dhw = 0.0
                 if t_dhw < DHW_SET + 5.0:
                     q_dhw = min(q_left, 8.0)
                     t_new = min(60.0, t_dhw + q_dhw * 0.85 * 3.6e6 / c_dhw)
@@ -185,6 +199,10 @@ def simulate(n_coll, coll, v_buf, dhw_vol=200.0):
                 t_buf += q_store * 3.6e6 / c_buf
                 used_m[mon] += q_store
                 excess_m[mon] += max(0.0, q_left - q_store)
+                # buffer at maximum, sun is strong -> no sink for the collector
+                if g > 300.0 and store_max < 0.5:
+                    stag_hours += 1
+                    t_max = max(t_max, ta + stagnation_dt(g, coll))
         elif g > 30.0:
             excess_m[mon] += a_ap * coll["eta0"] * g / 1000.0
 
@@ -221,6 +239,11 @@ def simulate(n_coll, coll, v_buf, dhw_vol=200.0):
         t_buf -= ua_buf * (t_buf - 22.0) * 3600.0 / c_buf
         t_buf = max(20.0, min(BUF_MAX, t_buf))
         t_top_m[mon] += t_buf + T_STRAT
+        if t_buf + T_STRAT > 90.0:
+            hot_hours += 1
+            if r["time"][:8] != hot_day:
+                hot_day = r["time"][:8]
+                hot_days += 1
         t_bot_m[mon] += max(12.0, t_buf - T_STRAT)
         hcnt[mon] += 1
 
@@ -251,6 +274,10 @@ def simulate(n_coll, coll, v_buf, dhw_vol=200.0):
         t_top=[t_top_m[i] / hcnt[i] for i in range(12)],
         t_bot=[t_bot_m[i] / hcnt[i] for i in range(12)],
         run_hours=run_hours,
+        stagnation_hours=stag_hours / ny,
+        hot_hours=hot_hours / ny,
+        hot_days=hot_days / ny,
+        t_stag_max=t_max,
         specific_yield=sum(yield_m) / a_ap,
     )
 
