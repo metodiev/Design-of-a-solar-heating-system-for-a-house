@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="700" viewBox="0 0 1080 700">
+<rect width="1080" height="700" fill="#ffffff"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="bold" fill="#1c1d21">Визуализация 2 – Разположение на колекторите на южния покрив</text>
+<text x="24" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#6c757d">5 × KPS11 (2037 × 1235 mm), наклон 55°, разстояние между редове, сенки</text>
+<line x1="24" y1="64" x2="1056" y2="64" stroke="#dee2e6" stroke-width="1.5"/>
+<rect x="60" y="90" width="960" height="380" fill="#e9ecef" stroke="#adb5bd"/>
+<polygon points="110,140 970,140 970,420 110,420" fill="#dee2e6" stroke="#495057" stroke-width="3"/>
+<rect x="150" y="175" width="220" height="100" rx="4" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1"/>
+<line x1="160" y1="181" x2="160" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="184" y1="181" x2="184" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="208" y1="181" x2="208" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="232" y1="181" x2="232" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="256" y1="181" x2="256" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="280" y1="181" x2="280" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="304" y1="181" x2="304" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="328" y1="181" x2="328" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="352" y1="181" x2="352" y2="269" stroke="#f08c00" stroke-width="1"/>
+<text x="260" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a94a0a" text-anchor="middle" font-weight="bold" font-style="normal">K1</text>
+<rect x="410" y="175" width="220" height="100" rx="4" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1"/>
+<line x1="420" y1="181" x2="420" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="444" y1="181" x2="444" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="468" y1="181" x2="468" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="492" y1="181" x2="492" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="516" y1="181" x2="516" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="540" y1="181" x2="540" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="564" y1="181" x2="564" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="588" y1="181" x2="588" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="612" y1="181" x2="612" y2="269" stroke="#f08c00" stroke-width="1"/>
+<text x="520" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a94a0a" text-anchor="middle" font-weight="bold" font-style="normal">K2</text>
+<rect x="670" y="175" width="220" height="100" rx="4" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1"/>
+<line x1="680" y1="181" x2="680" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="704" y1="181" x2="704" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="728" y1="181" x2="728" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="752" y1="181" x2="752" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="776" y1="181" x2="776" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="800" y1="181" x2="800" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="824" y1="181" x2="824" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="848" y1="181" x2="848" y2="269" stroke="#f08c00" stroke-width="1"/>
+<line x1="872" y1="181" x2="872" y2="269" stroke="#f08c00" stroke-width="1"/>
+<text x="780" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a94a0a" text-anchor="middle" font-weight="bold" font-style="normal">K3</text>
+<rect x="150" y="295" width="220" height="100" rx="4" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1"/>
+<line x1="160" y1="301" x2="160" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="184" y1="301" x2="184" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="208" y1="301" x2="208" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="232" y1="301" x2="232" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="256" y1="301" x2="256" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="280" y1="301" x2="280" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="304" y1="301" x2="304" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="328" y1="301" x2="328" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="352" y1="301" x2="352" y2="389" stroke="#f08c00" stroke-width="1"/>
+<text x="260" y="350" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a94a0a" text-anchor="middle" font-weight="bold" font-style="normal">K4</text>
+<rect x="410" y="295" width="220" height="100" rx="4" fill="#ffd8a8" stroke="#e8590c" stroke-width="2" opacity="1"/>
+<line x1="420" y1="301" x2="420" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="444" y1="301" x2="444" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="468" y1="301" x2="468" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="492" y1="301" x2="492" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="516" y1="301" x2="516" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="540" y1="301" x2="540" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="564" y1="301" x2="564" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="588" y1="301" x2="588" y2="389" stroke="#f08c00" stroke-width="1"/>
+<line x1="612" y1="301" x2="612" y2="389" stroke="#f08c00" stroke-width="1"/>
+<text x="520" y="350" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a94a0a" text-anchor="middle" font-weight="bold" font-style="normal">K5</text>
+<text x="670" y="355" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#868e96" text-anchor="middle" font-weight="italic" font-style="normal">резерв</text>
+<line x1="150" y1="440" x2="370" y2="440" stroke="#1971c2" stroke-width="2"/>
+<text x="260" y="462" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1864ab" text-anchor="middle" font-weight="normal" font-style="normal">2 037 mm</text>
+<line x1="130" y1="175" x2="130" y2="275" stroke="#1971c2" stroke-width="2"/>
+<text x="112" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1864ab" text-anchor="end" font-weight="normal" font-style="normal">1 235 mm</text>
+<rect x="60" y="500" width="460" height="160" rx="10" fill="#f8f9fa" stroke="#adb5bd" stroke-width="1.2" opacity="1"/>
+<text x="290" y="526" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#343a40" text-anchor="middle" font-weight="bold" font-style="normal">ГЕОМЕТРИЯ</text>
+<text x="76" y="552" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">5 колектора: 3 + 2 (шахматно)</text>
+<text x="76" y="576" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Обща площ: 12,6 m² бруто / 11,5 m² апертура</text>
+<text x="76" y="600" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Наклон 55° → +8 % зимно производство</text>
+<text x="76" y="624" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Сянка между редове: ≥ 1,9 × h</text>
+<text x="76" y="648" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Свободен покрив: ~22 m²</text>
+<rect x="560" y="500" width="460" height="160" rx="10" fill="#fff9db" stroke="#f59f00" stroke-width="1.2" opacity="1"/>
+<text x="790" y="526" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#664d03" text-anchor="middle" font-weight="bold" font-style="normal">МОНТАЖ</text>
+<text x="576" y="552" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Шини на керемидите, без пробиване на хидроизолацията</text>
+<text x="576" y="576" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Разстояние до комин: ≥ 0,6 m</text>
+<text x="576" y="600" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Носеща способност: 25 kg/m² (пълни с гликол)</text>
+<text x="576" y="624" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Достъп за обслужване: ≥ 0,5 m отстрани</text>
+<text x="1056" y="688" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#868e96" text-anchor="end">Концептуална схема – не е проект за монтаж. Всички размери и свързвания подлежат на проверка от правоспособен проектант.</text>
+</svg>

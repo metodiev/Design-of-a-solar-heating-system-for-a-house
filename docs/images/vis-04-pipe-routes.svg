@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700">
+<rect width="1120" height="700" fill="#ffffff"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="bold" fill="#1c1d21">Визуализация 4 – Цветна схема на тръбните трасета</text>
+<text x="24" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#6c757d">Трасета, диаметри и дебелини на изолацията между отделните възли</text>
+<line x1="24" y1="64" x2="1096" y2="64" stroke="#dee2e6" stroke-width="1.5"/>
+<rect x="120" y="120" width="190" height="62" rx="8" fill="#fff" stroke="#343a40" stroke-width="1.8" opacity="1"/>
+<text x="215.0" y="146" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Слънчеви</text>
+<text x="215.0" y="166" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">Слънчеви колектори</text>
+<rect x="120" y="250" width="190" height="62" rx="8" fill="#fff" stroke="#343a40" stroke-width="1.8" opacity="1"/>
+<text x="215.0" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Соларна</text>
+<text x="215.0" y="296" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">Соларна станция</text>
+<rect x="470" y="250" width="190" height="62" rx="8" fill="#fff" stroke="#343a40" stroke-width="1.8" opacity="1"/>
+<text x="565.0" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">ТО</text>
+<text x="565.0" y="296" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">ТО + буфер</text>
+<rect x="820" y="200" width="190" height="62" rx="8" fill="#fff" stroke="#343a40" stroke-width="1.8" opacity="1"/>
+<text x="915.0" y="226" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Бойлер</text>
+<text x="915.0" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">Бойлер 200 l</text>
+<rect x="120" y="520" width="190" height="62" rx="8" fill="#fff" stroke="#343a40" stroke-width="1.8" opacity="1"/>
+<text x="215.0" y="546" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Камина</text>
+<text x="215.0" y="566" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">Камина</text>
+<rect x="120" y="640" width="190" height="62" rx="8" fill="#fff" stroke="#343a40" stroke-width="1.8" opacity="1"/>
+<text x="215.0" y="666" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Пелети</text>
+<text x="215.0" y="686" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">Пелети</text>
+<rect x="820" y="520" width="190" height="62" rx="8" fill="#fff" stroke="#343a40" stroke-width="1.8" opacity="1"/>
+<text x="915.0" y="546" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Радиатори</text>
+<text x="915.0" y="566" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">Радиатори 3 етажа</text>
+<polyline points="310,151 380,151 380,281 120,281" fill="none" stroke="#e8590c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="250.0,281.0 259.9,276.2 259.9,285.8" fill="#e8590c"/>
+<text x="250.0" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#e8590c" text-anchor="middle" font-weight="normal" font-style="normal">Cu 22 · 20 mm</text>
+<polyline points="310,281 380,281 380,281 470,281" fill="none" stroke="#e8590c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="425.0,281.0 415.1,285.8 415.1,276.2" fill="#e8590c"/>
+<text x="425.0" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#e8590c" text-anchor="middle" font-weight="normal" font-style="normal">Cu 22 · 20 mm</text>
+<polyline points="660,281 730,281 730,231 820,231" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="775.0,231.0 765.1,235.8 765.1,226.2" fill="#c92a2a"/>
+<text x="775.0" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c92a2a" text-anchor="middle" font-weight="normal" font-style="normal">Cu 18 · 30 mm</text>
+<polyline points="310,551 380,551 380,281 470,281" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="425.0,281.0 415.1,285.8 415.1,276.2" fill="#c92a2a"/>
+<text x="425.0" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c92a2a" text-anchor="middle" font-weight="normal" font-style="normal">Cu 28 · 40 mm</text>
+<polyline points="310,671 380,671 380,281 470,281" fill="none" stroke="#f08c00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<polygon points="425.0,281.0 415.1,285.8 415.1,276.2" fill="#f08c00"/>
+<text x="425.0" y="272" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#f08c00" text-anchor="middle" font-weight="normal" font-style="normal">Cu 28 · 40 mm</text>
+<polyline points="820,262 760,262 760,400 960,400 960,520" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="960.0,460.0 955.2,450.1 964.8,450.1" fill="#c92a2a"/>
+<text x="965" y="430" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c92a2a" text-anchor="start" font-weight="normal" font-style="normal">Cu 22 · 30 mm</text>
+<polyline points="960,582 1010,582 1010,250 760,250 760,240 720,240" fill="none" stroke="#1971c2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="740.0,240.0 749.9,235.2 749.9,244.8" fill="#1971c2"/>
+<text x="1016" y="300" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#1971c2" text-anchor="start" font-weight="normal" font-style="normal">връщане</text>
+<rect x="60" y="300" width="360" height="180" rx="10" fill="#f8f9fa" stroke="#adb5bd" stroke-width="1.2" opacity="1"/>
+<text x="240" y="326" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="middle" font-weight="bold" font-style="normal">ПРАВИЛА ЗА ТРАСЕТАТА</text>
+<text x="76" y="352" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Соларен кръг: непрекъснат наклон нагоре</text>
+<text x="76" y="374" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">  към обезвъздушителя (≥ 2 %)</text>
+<text x="76" y="396" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Всички хоризонтални участъци – с</text>
+<text x="76" y="418" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">  обезвъздушител в най-високата точка</text>
+<text x="76" y="440" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Изолация: 20 mm солар, 30–40 mm отопление</text>
+<text x="76" y="462" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Компенсатори на всеки ≥ 8 m прав участък</text>
+<text x="1096" y="688" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#868e96" text-anchor="end">Концептуална схема – не е проект за монтаж. Всички размери и свързвания подлежат на проверка от правоспособен проектант.</text>
+</svg>

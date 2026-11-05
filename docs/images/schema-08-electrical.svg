@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="720" viewBox="0 0 1120 720">
+<rect width="1120" height="720" fill="#ffffff"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="bold" fill="#1c1d21">Схема 8 – Електрическа схема на автоматиката</text>
+<text x="24" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#6c757d">Захранване, защити, контролер, изпълнителни механизми и датчици</text>
+<line x1="24" y1="64" x2="1096" y2="64" stroke="#dee2e6" stroke-width="1.5"/>
+<rect x="40" y="100" width="150" height="520" rx="10" fill="#f3f0ff" stroke="#7048e8" stroke-width="2" opacity="1"/>
+<text x="115" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5f3dc4" text-anchor="middle" font-weight="bold" font-style="normal">ЗАХРАНВАНЕ</text>
+<rect x="55" y="149" width="120" height="26" rx="4" fill="#fff" stroke="#7048e8" stroke-width="1.2" opacity="1"/>
+<text x="115" y="167" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#5f3dc4" text-anchor="middle" font-weight="normal" font-style="normal">230 V AC / 50 Hz</text>
+<rect x="55" y="189" width="120" height="26" rx="4" fill="#fff" stroke="#7048e8" stroke-width="1.2" opacity="1"/>
+<text x="115" y="207" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#5f3dc4" text-anchor="middle" font-weight="normal" font-style="normal">Автомат C16</text>
+<rect x="55" y="229" width="120" height="26" rx="4" fill="#fff" stroke="#7048e8" stroke-width="1.2" opacity="1"/>
+<text x="115" y="247" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#5f3dc4" text-anchor="middle" font-weight="normal" font-style="normal">Дефектнотокова</text>
+<rect x="55" y="247" width="120" height="26" rx="4" fill="#fff" stroke="#7048e8" stroke-width="1.2" opacity="1"/>
+<text x="115" y="265" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#5f3dc4" text-anchor="middle" font-weight="normal" font-style="normal">защита 30 mA</text>
+<rect x="55" y="294" width="120" height="26" rx="4" fill="#fff" stroke="#7048e8" stroke-width="1.2" opacity="1"/>
+<text x="115" y="312" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#5f3dc4" text-anchor="middle" font-weight="normal" font-style="normal">UPS 12 V/300 W</text>
+<rect x="55" y="334" width="120" height="26" rx="4" fill="#fff" stroke="#7048e8" stroke-width="1.2" opacity="1"/>
+<text x="115" y="352" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#5f3dc4" text-anchor="middle" font-weight="normal" font-style="normal">Заземяване</text>
+<rect x="220" y="100" width="260" height="520" rx="10" fill="#fff" stroke="#7048e8" stroke-width="2" opacity="1"/>
+<text x="350" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#5f3dc4" text-anchor="middle" font-weight="bold" font-style="normal">КОНТРОЛЕР</text>
+<text x="350" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="middle" font-weight="bold" font-style="normal">IR 12 THERM2 SOL</text>
+<text x="234" y="182" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">T1–T3  буфер (горен/среден/долен)</text>
+<circle cx="228" cy="178" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="234" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">T4  соларен колектор</text>
+<circle cx="228" cy="210" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="234" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">T5  отопление – подаване</text>
+<circle cx="228" cy="242" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="234" y="278" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">T6  отопление – връщане</text>
+<circle cx="228" cy="274" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="234" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">T7  камина</text>
+<circle cx="228" cy="306" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="234" y="342" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">T8  БГВ</text>
+<circle cx="228" cy="338" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="234" y="374" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">T9  външна температура</text>
+<circle cx="228" cy="370" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="360" y="182" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">P1  соларна помпа</text>
+<circle cx="354" cy="178" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="360" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">P2  отоплителна помпа</text>
+<circle cx="354" cy="210" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="360" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">P3  помпа камина</text>
+<circle cx="354" cy="242" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="360" y="278" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">P4  помпа пелети</text>
+<circle cx="354" cy="274" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="360" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">M1  трипътен смесител</text>
+<circle cx="354" cy="306" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="360" y="342" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">M2  приоритет БГВ</text>
+<circle cx="354" cy="338" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<text x="360" y="374" font-family="Segoe UI, Arial, sans-serif" font-size="9.6" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Y1–Y3  зонови вентили</text>
+<circle cx="354" cy="370" r="3" fill="#7048e8" stroke="#7048e8" stroke-width="0"/>
+<rect x="510" y="100" width="240" height="260" rx="10" fill="#fff" stroke="#7048e8" stroke-width="2" opacity="1"/>
+<text x="630" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#5f3dc4" text-anchor="middle" font-weight="bold" font-style="normal">ИЗПЪЛНИТЕЛНИ</text>
+<text x="525" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">P1 соларна помпа – 45 W</text>
+<text x="525" y="189" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">P2 отопление – 45 W</text>
+<text x="525" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">P3 камина – 60 W</text>
+<text x="525" y="243" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">P4 пелети – 45 W</text>
+<text x="525" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">M1 смесител 24 V</text>
+<text x="525" y="297" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">M2 вентил 230 V</text>
+<text x="525" y="324" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Y1–Y3 зонови 230 V</text>
+<rect x="510" y="390" width="240" height="230" rx="10" fill="#fff" stroke="#7048e8" stroke-width="2" opacity="1"/>
+<text x="630" y="418" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#5f3dc4" text-anchor="middle" font-weight="bold" font-style="normal">ЗАЩИТИ</text>
+<text x="525" y="448" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Термостат 95 °C (камина)</text>
+<text x="525" y="478" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Реле за ниво / дебит</text>
+<text x="525" y="508" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Предпазен клапан 3 bar</text>
+<text x="525" y="538" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Защита от замръзване 4 °C</text>
+<text x="525" y="568" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Сигнал за авария (Wi-Fi)</text>
+<rect x="780" y="100" width="300" height="520" rx="10" fill="#f8f9fa" stroke="#adb5bd" stroke-width="1.2" opacity="1"/>
+<text x="930" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#495057" text-anchor="middle" font-weight="bold" font-style="normal">КАБЕЛИ И СИГНАЛИ</text>
+<text x="796" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Датчици: 2 × 0,75 mm² екран., макс. 30 m</text>
+<text x="796" y="186" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Помпи: 3 × 1,5 mm²</text>
+<text x="796" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Трипътен вентил: 3 × 1,0 mm²</text>
+<text x="796" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Зонови вентили: 3 × 1,0 mm²</text>
+<text x="796" y="264" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Външен датчик: 2 × 0,75 mm²</text>
+<text x="796" y="290" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Комуникация: RS485 / Wi-Fi модул</text>
+<text x="796" y="316" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal"></text>
+<text x="796" y="342" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Всички кабели в гофрирани тръби,</text>
+<text x="796" y="368" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">отделени от силовите линии.</text>
+<text x="796" y="394" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal"></text>
+<text x="796" y="420" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Табло IP54, извън обслужваемия</text>
+<text x="796" y="446" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">обхват на буфера.</text>
+<text x="1096" y="708" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#868e96" text-anchor="end">Концептуална схема – не е проект за монтаж. Всички размери и свързвания подлежат на проверка от правоспособен проектант.</text>
+</svg>

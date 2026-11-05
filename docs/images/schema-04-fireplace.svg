@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="660" viewBox="0 0 1080 660">
+<rect width="1080" height="660" fill="#ffffff"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="bold" fill="#1c1d21">Схема 4 – Камина с водна риза (отворена система – забранена)</text>
+<text x="24" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#6c757d">Затворен кръг с термостатичен смесител, защита от прегряване и охлаждащ кръг</text>
+<line x1="24" y1="64" x2="1056" y2="64" stroke="#dee2e6" stroke-width="1.5"/>
+<rect x="60" y="120" width="190" height="110" rx="8" fill="#fff5f5" stroke="#c92a2a" stroke-width="1.8" opacity="1"/>
+<text x="155.0" y="162.0" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">КАМИНА</text>
+<text x="155.0" y="179.0" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">с водна риза</text>
+<text x="155.0" y="196.0" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">12–15 kW</text>
+<text x="155" y="258" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#c92a2a" text-anchor="middle" font-weight="italic" font-style="normal">Q ≈ 8–10 kW към водата</text>
+<polyline points="250,145 330,145" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="290.0,145.0 280.1,149.8 280.1,140.2" fill="#c92a2a"/>
+<rect x="287" y="120" width="26" height="20" rx="4" fill="#fff" stroke="#862e9c" stroke-width="1.5" opacity="1"/>
+<text x="300" y="134" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#862e9c" text-anchor="middle" font-weight="bold" font-style="normal">T6</text>
+<polygon points="360,134 350,152 370,152" fill="#fff" stroke="#c92a2a" stroke-width="2"/>
+<text x="360" y="149" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c92a2a" text-anchor="middle" font-weight="bold" font-style="normal">55°</text>
+<text x="360" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c92a2a" text-anchor="middle" font-weight="normal" font-style="normal">термостатичен</text>
+<text x="360" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c92a2a" text-anchor="middle" font-weight="normal" font-style="normal">смесител 55 °C</text>
+<polyline points="370,145 470,145" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="420.0,145.0 410.1,149.8 410.1,140.2" fill="#c92a2a"/>
+<circle cx="510" cy="145" r="13" fill="#fff" stroke="#343a40" stroke-width="2"/>
+<polygon points="505,139 505,151 516,145" fill="#343a40"/>
+<text x="510" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">помпа</text>
+<circle cx="560" cy="145" r="12" fill="#fff" stroke="#495057" stroke-width="1.5"/>
+<text x="560" y="149" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#495057" text-anchor="middle" font-weight="bold" font-style="normal">V</text>
+<polyline points="572,145 700,145" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="636.0,145.0 626.1,149.8 626.1,140.2" fill="#c92a2a"/>
+<rect x="700" y="110" width="90" height="300" rx="10" fill="#dee2e6" stroke="#343a40" stroke-width="2" opacity="1"/>
+<text x="745" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">БУФЕР</text>
+<polyline points="745,410 745,470 420,470 420,200 350,200 350,170" fill="none" stroke="#1971c2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="350.0,185.0 354.8,194.9 345.2,194.9" fill="#1971c2"/>
+<rect x="330" y="250" width="180" height="64" rx="8" fill="#fff" stroke="#c92a2a" stroke-width="1.8" opacity="1"/>
+<text x="420.0" y="277.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Предпазна група</text>
+<text x="420.0" y="294.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">3 bar + обезвъздушител</text>
+<circle cx="420" cy="240" r="15" fill="#fff" stroke="#495057" stroke-width="1.5"/>
+<text x="420" y="245" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#495057" text-anchor="middle" font-weight="bold" font-style="normal">P</text>
+<polyline points="420,220 420,200" fill="none" stroke="#c92a2a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="420.0,210.0 424.8,219.9 415.2,219.9" fill="#c92a2a"/>
+<circle cx="620" cy="340" r="15" fill="#fff" stroke="#0c8599" stroke-width="1.5"/>
+<text x="620" y="345" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#0c8599" text-anchor="middle" font-weight="bold" font-style="normal">M</text>
+<text x="620" y="372" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#0c8599" text-anchor="middle" font-weight="normal" font-style="normal">разширителен съд 35 l</text>
+<polyline points="620,325 620,300 560,300 560,145" fill="none" stroke="#1971c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="560.0,222.5 564.8,232.4 555.2,232.4" fill="#1971c2"/>
+<rect x="60" y="330" width="210" height="100" rx="8" fill="#e7f5ff" stroke="#0c8599" stroke-width="1.8" opacity="1"/>
+<text x="165.0" y="367.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Охлаждащ кръг</text>
+<text x="165.0" y="384.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">термостат 95 °C</text>
+<text x="165.0" y="401.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">вода от водопровода</text>
+<polyline points="270,360 330,360 330,300" fill="none" stroke="#0c8599" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="330.0,330.0 334.8,339.9 325.2,339.9" fill="#0c8599"/>
+<polyline points="165,430 165,500 700,500 700,300" fill="none" stroke="#0c8599" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<polygon points="700.0,400.0 704.8,409.9 695.2,409.9" fill="#0c8599"/>
+<text x="430" y="520" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#0c8599" text-anchor="middle" font-weight="normal" font-style="normal">охлаждаща вода към канализацията (само при авария)</text>
+<rect x="470" y="560" width="480" height="62" rx="8" fill="#f3f0ff" stroke="#7048e8" stroke-width="1.8" opacity="1"/>
+<text x="710.0" y="586.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Захранване: UPS 12 V / 300 W за помпата</text>
+<text x="710.0" y="603.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">при спиране на тока буферът поема топлината (≈ 37 kWh)</text>
+<rect x="60" y="555" width="380" height="84" rx="6" fill="#fff9db" stroke="#f59f00" stroke-width="1.2" opacity="1"/>
+<text x="70" y="573" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">ЗАБРАНЕНО: отворен разширителен съд</text>
+<text x="70" y="588" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">и гравитачна циркулация към буфера.</text>
+<text x="70" y="603" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Камината работи само със затворен,</text>
+<text x="70" y="618" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">предпазен кръг и помпа.</text>
+<text x="1056" y="648" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#868e96" text-anchor="end">Концептуална схема – не е проект за монтаж. Всички размери и свързвания подлежат на проверка от правоспособен проектант.</text>
+</svg>

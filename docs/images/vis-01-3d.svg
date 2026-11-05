@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="780" viewBox="0 0 1180 780">
+<rect width="1180" height="780" fill="#ffffff"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="bold" fill="#1c1d21">Визуализация 1 – 3D концепция на инсталацията</text>
+<text x="24" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#6c757d">Разрез на къщата: покривни колектори, техническо помещение, разпределение по етажи</text>
+<line x1="24" y1="64" x2="1156" y2="64" stroke="#dee2e6" stroke-width="1.5"/>
+<rect x="0" y="66" width="1180" height="714" fill="#f1f3f5"/>
+<ellipse cx="600" cy="640" rx="420" ry="110" fill="#dee2e6" opacity="0.7"/>
+<polygon points="600,520 600,280 773,380 773,620" fill="#e9ecef" stroke="#868e96"/>
+<polygon points="773,620 773,380 635,460 635,700" fill="#dee2e6" stroke="#868e96"/>
+<polygon points="773,380 635,460 461,360 600,280" fill="#495057" stroke="#212529"/>
+<polygon points="600,290 642,314 598,339 557,315" fill="#ffd8a8" stroke="#e8590c" stroke-width="2"/>
+<text x="599.134" y="318.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#d9480f" text-anchor="middle" font-weight="bold" font-style="normal">K</text>
+<polygon points="648,318 689,342 646,366 604,342" fill="#ffd8a8" stroke="#e8590c" stroke-width="2"/>
+<text x="646.764" y="346.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#d9480f" text-anchor="middle" font-weight="bold" font-style="normal">K</text>
+<polygon points="695,345 737,369 694,394 652,370" fill="#ffd8a8" stroke="#e8590c" stroke-width="2"/>
+<text x="694.394" y="373.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#d9480f" text-anchor="middle" font-weight="bold" font-style="normal">K</text>
+<polygon points="546,321 588,345 545,370 503,346" fill="#ffd8a8" stroke="#e8590c" stroke-width="2"/>
+<text x="545.442" y="349.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#d9480f" text-anchor="middle" font-weight="bold" font-style="normal">K</text>
+<polygon points="594,348 636,372 592,398 551,374" fill="#ffd8a8" stroke="#e8590c" stroke-width="2"/>
+<text x="593.072" y="377.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#d9480f" text-anchor="middle" font-weight="bold" font-style="normal">K</text>
+<polygon points="642,376 683,400 640,425 598,401" fill="#ffd8a8" stroke="#e8590c" stroke-width="2"/>
+<text x="640.702" y="404.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#d9480f" text-anchor="middle" font-weight="bold" font-style="normal">K</text>
+<text x="600" y="330" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d9480f" text-anchor="middle" font-weight="bold" font-style="normal">5 × KPS11 · 12,6 m² · юг · 55°</text>
+<text x="588.0" y="484.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#495057" text-anchor="end" font-weight="normal" font-style="normal">I етаж</text>
+<line x1="600.0" y1="480.0" x2="660.0" y2="480.0" stroke="#adb5bd" stroke-dasharray="4 3"/>
+<text x="588.0" y="414.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#495057" text-anchor="end" font-weight="normal" font-style="normal">II етаж</text>
+<line x1="600.0" y1="410.0" x2="660.0" y2="410.0" stroke="#adb5bd" stroke-dasharray="4 3"/>
+<text x="588.0" y="344.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#495057" text-anchor="end" font-weight="normal" font-style="normal">III етаж</text>
+<line x1="600.0" y1="340.0" x2="660.0" y2="340.0" stroke="#adb5bd" stroke-dasharray="4 3"/>
+<polygon points="600,540 600,440 661,475 661,575" fill="#e7f5ff" stroke="#1971c2" stroke-width="2" opacity="0.85"/>
+<text x="630.31" y="512.5" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1864ab" text-anchor="middle" font-weight="bold" font-style="normal">ТП</text>
+<rect x="60" y="90" width="290" height="120" rx="10" fill="#fff" stroke="#1971c2" stroke-width="1.5" opacity="1"/>
+<text x="75" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#1864ab" text-anchor="start" font-weight="bold" font-style="normal">ТЕХНИЧЕСКО ПОМЕЩЕНИЕ</text>
+<text x="75" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• PS 800 N+ буфер</text>
+<text x="75" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• R2BC 200 бойлер</text>
+<text x="75" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Контролер + табло</text>
+<text x="75" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Разширителни съдове</text>
+<polyline points="350,150 500,470" fill="none" stroke="#1971c2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<rect x="840" y="90" width="300" height="140" rx="10" fill="#fff" stroke="#2f9e44" stroke-width="1.5" opacity="1"/>
+<text x="855" y="116" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#2b8a3e" text-anchor="start" font-weight="bold" font-style="normal">РАЗПРЕДЕЛЕНИЕ</text>
+<text x="855" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• 3 етажа × радиатори</text>
+<text x="855" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Зонов вентил на етаж</text>
+<text x="855" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Стаен термостат</text>
+<text x="855" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Балансиращи вентили</text>
+<rect x="840" y="250" width="300" height="130" rx="10" fill="#fff" stroke="#e8590c" stroke-width="1.5" opacity="1"/>
+<text x="855" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#d9480f" text-anchor="start" font-weight="bold" font-style="normal">СЛЪНЧЕВ КРЪГ</text>
+<text x="855" y="300" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Гликол 40 %</text>
+<text x="855" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• S2 SRS3 станция</text>
+<text x="855" y="340" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Пластинчат ТО 15 kW</text>
+<text x="855" y="360" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">• Разширителен съд 25 l</text>
+<rect x="60" y="640" width="1060" height="80" rx="10" fill="#fff" stroke="#adb5bd" stroke-width="1.2" opacity="1"/>
+<line x1="90" y1="672" x2="120" y2="672" stroke="#e8590c" stroke-width="6" stroke-linecap="round"/>
+<text x="130" y="677" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">соларен кръг</text>
+<line x1="295" y1="672" x2="325" y2="672" stroke="#c92a2a" stroke-width="6" stroke-linecap="round"/>
+<text x="335" y="677" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">отопление</text>
+<line x1="500" y1="672" x2="530" y2="672" stroke="#1971c2" stroke-width="6" stroke-linecap="round"/>
+<text x="540" y="677" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">връщане</text>
+<line x1="705" y1="672" x2="735" y2="672" stroke="#2f9e44" stroke-width="6" stroke-linecap="round"/>
+<text x="745" y="677" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">БГВ</text>
+<line x1="910" y1="672" x2="940" y2="672" stroke="#7048e8" stroke-width="6" stroke-linecap="round"/>
+<text x="950" y="677" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">автоматика</text>
+<text x="1156" y="768" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#868e96" text-anchor="end">Концептуална схема – не е проект за монтаж. Всички размери и свързвания подлежат на проверка от правоспособен проектант.</text>
+</svg>

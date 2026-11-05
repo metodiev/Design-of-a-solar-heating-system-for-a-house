@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="620" viewBox="0 0 1080 620">
+<rect width="1080" height="620" fill="#ffffff"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="bold" fill="#1c1d21">Схема 2 – Слънчеви колектори и соларен кръг</text>
+<text x="24" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#6c757d">Двуконтурна схема с пластинчат топлообменник; наклон 55°, азимут 180°</text>
+<line x1="24" y1="64" x2="1056" y2="64" stroke="#dee2e6" stroke-width="1.5"/>
+<rect x="60" y="100" width="340" height="120" rx="6" fill="#fff4e6" stroke="#e8590c" stroke-width="2" opacity="1"/>
+<rect x="74" y="116" width="54" height="60" rx="3" fill="#ffd8a8" stroke="#e8590c" stroke-width="1.4" opacity="1"/>
+<text x="101" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d9480f" text-anchor="middle" font-weight="normal" font-style="normal">K1</text>
+<text x="101" y="194" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a94a0a" text-anchor="middle" font-weight="normal" font-style="normal">2,52 m²</text>
+<rect x="138" y="116" width="54" height="60" rx="3" fill="#ffd8a8" stroke="#e8590c" stroke-width="1.4" opacity="1"/>
+<text x="165" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d9480f" text-anchor="middle" font-weight="normal" font-style="normal">K2</text>
+<text x="165" y="194" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a94a0a" text-anchor="middle" font-weight="normal" font-style="normal">2,52 m²</text>
+<rect x="202" y="116" width="54" height="60" rx="3" fill="#ffd8a8" stroke="#e8590c" stroke-width="1.4" opacity="1"/>
+<text x="229" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d9480f" text-anchor="middle" font-weight="normal" font-style="normal">K3</text>
+<text x="229" y="194" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a94a0a" text-anchor="middle" font-weight="normal" font-style="normal">2,52 m²</text>
+<rect x="266" y="116" width="54" height="60" rx="3" fill="#ffd8a8" stroke="#e8590c" stroke-width="1.4" opacity="1"/>
+<text x="293" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d9480f" text-anchor="middle" font-weight="normal" font-style="normal">K4</text>
+<text x="293" y="194" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a94a0a" text-anchor="middle" font-weight="normal" font-style="normal">2,52 m²</text>
+<rect x="330" y="116" width="54" height="60" rx="3" fill="#ffd8a8" stroke="#e8590c" stroke-width="1.4" opacity="1"/>
+<text x="357" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d9480f" text-anchor="middle" font-weight="normal" font-style="normal">K5</text>
+<text x="357" y="194" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a94a0a" text-anchor="middle" font-weight="normal" font-style="normal">2,52 m²</text>
+<text x="230" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d9480f" text-anchor="middle" font-weight="bold" font-style="normal">Площ бруто 12,6 m² / апертура 11,5 m²</text>
+<polyline points="400,130 520,130" fill="none" stroke="#e8590c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="460.0,130.0 450.1,134.8 450.1,125.2" fill="#e8590c"/>
+<circle cx="470" cy="112" r="8" fill="#fff" stroke="#e8590c" stroke-width="1.5"/>
+<text x="470" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a94a0a" text-anchor="middle" font-weight="normal" font-style="normal">обезвъздушител</text>
+<polyline points="400,200 500,200" fill="none" stroke="#f08c00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="450.0,200.0 440.1,204.8 440.1,195.2" fill="#f08c00"/>
+<rect x="520" y="100" width="150" height="120" rx="8" fill="#fff" stroke="#e8590c" stroke-width="1.8" opacity="1"/>
+<text x="595.0" y="130.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Соларна станция</text>
+<text x="595.0" y="147.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">S2 SRS3</text>
+<text x="595.0" y="164.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">помпа ST 25/6</text>
+<text x="595.0" y="181.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">дебитомер 2–12 l/min</text>
+<text x="595.0" y="198.0" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">предпазен клапан 6 bar</text>
+<rect x="499" y="150" width="26" height="20" rx="4" fill="#fff" stroke="#862e9c" stroke-width="1.5" opacity="1"/>
+<text x="512" y="164" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#862e9c" text-anchor="middle" font-weight="bold" font-style="normal">T1</text>
+<circle cx="700" cy="112" r="14" fill="#fff" stroke="#495057" stroke-width="1.5"/>
+<text x="700" y="117" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#495057" text-anchor="middle" font-weight="bold" font-style="normal">M</text>
+<text x="700" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">разширителен съд 25 l</text>
+<rect x="520" y="260" width="150" height="90" rx="8" fill="#fff" stroke="#e8590c" stroke-width="1.8" opacity="1"/>
+<text x="595.0" y="292.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Пластинчат ТО</text>
+<text x="595.0" y="309.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">12–15 kW</text>
+<text x="595.0" y="326.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">ε = 0,85</text>
+<polyline points="595,220 595,260" fill="none" stroke="#e8590c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="595.0,240.0 590.2,230.1 599.8,230.1" fill="#e8590c"/>
+<polyline points="595,350 595,400 470,400 470,430" fill="none" stroke="#f08c00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="470.0,415.0 465.2,405.1 474.8,405.1" fill="#f08c00"/>
+<rect x="330" y="380" width="120" height="160" rx="10" fill="#dee2e6" stroke="#495057" stroke-width="2" opacity="1"/>
+<text x="390" y="420" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#343a40" text-anchor="middle" font-weight="bold" font-style="normal">БУФЕР</text>
+<text x="390" y="440" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">800 l</text>
+<rect x="449" y="405" width="26" height="20" rx="4" fill="#fff" stroke="#862e9c" stroke-width="1.5" opacity="1"/>
+<text x="462" y="419" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#862e9c" text-anchor="middle" font-weight="bold" font-style="normal">T5</text>
+<rect x="449" y="490" width="26" height="20" rx="4" fill="#fff" stroke="#862e9c" stroke-width="1.5" opacity="1"/>
+<text x="462" y="504" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#862e9c" text-anchor="middle" font-weight="bold" font-style="normal">T4</text>
+<polyline points="595,400 560,400 560,380 450,380" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,380.0 514.9,375.2 514.9,384.8" fill="#c92a2a"/>
+<polyline points="450,430 520,430 520,400 595,400" fill="none" stroke="#1971c2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="557.5,400.0 547.6,404.8 547.6,395.2" fill="#1971c2"/>
+<rect x="317" y="150" width="26" height="20" rx="4" fill="#fff" stroke="#862e9c" stroke-width="1.5" opacity="1"/>
+<text x="330" y="164" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#862e9c" text-anchor="middle" font-weight="bold" font-style="normal">T2</text>
+<text x="330" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#862e9c" text-anchor="middle" font-weight="normal" font-style="normal">датчик на колектора</text>
+<polyline points="670,160 720,160 720,300 720,340" fill="none" stroke="#e8590c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="720.0,320.0 715.2,310.1 724.8,310.1" fill="#e8590c"/>
+<rect x="660" y="340" width="120" height="60" rx="8" fill="#ebfbee" stroke="#2f9e44" stroke-width="1.8" opacity="1"/>
+<text x="720.0" y="365.5" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Към бойлер</text>
+<text x="720.0" y="382.5" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">серпентина 1</text>
+<text x="720" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#2b8a3e" text-anchor="middle" font-weight="italic" font-style="normal">приоритет БГВ</text>
+<rect x="60" y="380" width="240" height="99" rx="6" fill="#fff9db" stroke="#f59f00" stroke-width="1.2" opacity="1"/>
+<text x="70" y="398" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Дебит: 0,46 m³/h (40 l/h·m²)</text>
+<text x="70" y="413" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Δp ≈ 0,6 bar; помпа 3 степен</text>
+<text x="70" y="428" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Гликол 40 % до −25 °C</text>
+<text x="70" y="443" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Налягане при студено: 2,5 bar</text>
+<text x="70" y="458" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">Макс. температура 110 °C</text>
+<text x="390" y="575" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#495057" text-anchor="middle" font-weight="italic" font-style="normal">Соларната помпа се включва при T2 − T4 &gt; 6 K и спира при &lt; 3 K.</text>
+<text x="1056" y="608" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#868e96" text-anchor="end">Концептуална схема – не е проект за монтаж. Всички размери и свързвания подлежат на проверка от правоспособен проектант.</text>
+</svg>

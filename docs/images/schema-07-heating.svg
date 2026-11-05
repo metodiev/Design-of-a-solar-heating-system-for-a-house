@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="720" viewBox="0 0 1140 720">
+<rect width="1140" height="720" fill="#ffffff"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="bold" fill="#1c1d21">Схема 7 – Отоплителни кръгове за трите етажа</text>
+<text x="24" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" fill="#6c757d">Една помпа + трипътен смесител; балансиране и зонов контрол по етажи</text>
+<line x1="24" y1="64" x2="1116" y2="64" stroke="#dee2e6" stroke-width="1.5"/>
+<rect x="60" y="120" width="110" height="260" rx="10" fill="#dee2e6" stroke="#343a40" stroke-width="2" opacity="1"/>
+<text x="115" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">БУФЕР</text>
+<text x="115" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#495057" text-anchor="middle" font-weight="normal" font-style="normal">800 l</text>
+<polyline points="170,150 270,150" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="220.0,150.0 210.1,154.8 210.1,145.2" fill="#c92a2a"/>
+<circle cx="305" cy="150" r="13" fill="#fff" stroke="#343a40" stroke-width="2"/>
+<polygon points="300,144 300,156 311,150" fill="#343a40"/>
+<polygon points="370,139 360,157 380,157" fill="#fff" stroke="#c92a2a" stroke-width="2"/>
+<text x="370" y="154" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c92a2a" text-anchor="middle" font-weight="bold" font-style="normal">3</text>
+<text x="370" y="185" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c92a2a" text-anchor="middle" font-weight="normal" font-style="normal">трипътен смесител</text>
+<text x="370" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c92a2a" text-anchor="middle" font-weight="normal" font-style="normal">0–10 V / 3 точки</text>
+<rect x="427" y="125" width="26" height="20" rx="4" fill="#fff" stroke="#862e9c" stroke-width="1.5" opacity="1"/>
+<text x="440" y="139" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#862e9c" text-anchor="middle" font-weight="bold" font-style="normal">T5</text>
+<polyline points="385,150 520,150" fill="none" stroke="#c92a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="452.5,150.0 442.6,154.8 442.6,145.2" fill="#c92a2a"/>
+<polyline points="520,150 520,250 470,250 470,300 170,300 170,380" fill="none" stroke="#1971c2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="170.0,340.0 165.2,330.1 174.8,330.1" fill="#1971c2"/>
+<rect x="540" y="455" width="300" height="50" rx="8" fill="#fff" stroke="#c92a2a" stroke-width="1.8" opacity="1"/>
+<text x="690.0" y="475.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">II етаж – 27 m²</text>
+<text x="690.0" y="492.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">радиатори · термостатни глави</text>
+<polyline points="520,150 560,150 560,455" fill="none" stroke="#c92a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="560.0,302.5 555.2,292.6 564.8,292.6" fill="#c92a2a"/>
+<polyline points="570,505 570,330 520,330" fill="none" stroke="#1971c2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="545.0,330.0 554.9,325.2 554.9,334.8" fill="#1971c2"/>
+<circle cx="560" cy="390" r="0" fill="#fff" stroke="#fff" stroke-width="0"/>
+<rect x="555" y="420" width="24" height="24" rx="3" fill="#fff" stroke="#c92a2a" stroke-width="1.4" opacity="1"/>
+<text x="567" y="437" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c92a2a" text-anchor="middle" font-weight="bold" font-style="normal">ZV</text>
+<rect x="540" y="515" width="300" height="50" rx="8" fill="#fff" stroke="#c92a2a" stroke-width="1.8" opacity="1"/>
+<text x="690.0" y="535.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">I етаж – 27 m²</text>
+<text x="690.0" y="552.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">радиатори · термостатни глави</text>
+<polyline points="520,150 590,150 590,515" fill="none" stroke="#c92a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="590.0,332.5 585.2,322.6 594.8,322.6" fill="#c92a2a"/>
+<polyline points="600,565 600,330 520,330" fill="none" stroke="#1971c2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="560.0,330.0 569.9,325.2 569.9,334.8" fill="#1971c2"/>
+<circle cx="590" cy="390" r="0" fill="#fff" stroke="#fff" stroke-width="0"/>
+<rect x="585" y="480" width="24" height="24" rx="3" fill="#fff" stroke="#c92a2a" stroke-width="1.4" opacity="1"/>
+<text x="597" y="497" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c92a2a" text-anchor="middle" font-weight="bold" font-style="normal">ZV</text>
+<rect x="540" y="575" width="300" height="50" rx="8" fill="#fff" stroke="#c92a2a" stroke-width="1.8" opacity="1"/>
+<text x="690.0" y="595.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">III етаж – 26 m²</text>
+<text x="690.0" y="612.5" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">радиатори · термостатни глави</text>
+<polyline points="520,150 620,150 620,575" fill="none" stroke="#c92a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="620.0,362.5 615.2,352.6 624.8,352.6" fill="#c92a2a"/>
+<polyline points="630,625 630,330 520,330" fill="none" stroke="#1971c2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="575.0,330.0 584.9,325.2 584.9,334.8" fill="#1971c2"/>
+<circle cx="620" cy="390" r="0" fill="#fff" stroke="#fff" stroke-width="0"/>
+<rect x="615" y="540" width="24" height="24" rx="3" fill="#fff" stroke="#c92a2a" stroke-width="1.4" opacity="1"/>
+<text x="627" y="557" font-family="Segoe UI, Arial, sans-serif" font-size="9.5" fill="#c92a2a" text-anchor="middle" font-weight="bold" font-style="normal">ZV</text>
+<rect x="880" y="120" width="220" height="90" rx="8" fill="#f8f9fa" stroke="#adb5bd" stroke-width="1.8" opacity="1"/>
+<text x="990.0" y="152.0" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#212529" text-anchor="middle" font-weight="bold" font-style="normal">Балансиращи вентили</text>
+<text x="990.0" y="169.0" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">на всеки клон</text>
+<text x="990.0" y="186.0" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#212529" text-anchor="middle" font-weight="normal" font-style="normal">предварителна настройка</text>
+<text x="990" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#6c757d" text-anchor="middle" font-weight="normal" font-style="normal">Δp ≈ 0,35 bar</text>
+<rect x="60" y="430" width="480" height="210" rx="10" fill="#f8f9fa" stroke="#adb5bd" stroke-width="1.2" opacity="1"/>
+<text x="300" y="456" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#343a40" text-anchor="middle" font-weight="bold" font-style="normal">ПРОВЕРКА НА РАДИАТОРИТЕ</text>
+<text x="76" y="484" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">ΔT_log(60/50) = 34,8 K  →  Q = 100 % (базово оразмеряване)</text>
+<text x="76" y="508" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">ΔT_log(55/45) = 29,0 K  →  Q = 80 %</text>
+<text x="76" y="532" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">ΔT_log(50/40) = 24,7 K  →  Q = 63 %</text>
+<text x="76" y="556" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">ΔT_log(45/35) = 20,2 K  →  Q = 48 %</text>
+<text x="76" y="580" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#343a40" text-anchor="start" font-weight="normal" font-style="normal">Q = Q_n × (ΔT_log/ΔT_log,n)^1,3</text>
+<rect x="580" y="430" width="520" height="210" rx="10" fill="#fff9db" stroke="#f59f00" stroke-width="1.2" opacity="1"/>
+<text x="840" y="456" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#664d03" text-anchor="middle" font-weight="bold" font-style="normal">ИЗВОД ЗА ПРОЕКТИРАНЕТО</text>
+<text x="596" y="484" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">• При 45 °C подаване радиаторите дават ~48 % от мощността –</text>
+<text x="596" y="508" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">  недостатъчно за 4,9 kW при −15 °C.</text>
+<text x="596" y="532" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">• Работен режим: 55/45 °C при студено време,</text>
+<text x="596" y="556" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">  40/35 °C при меко време (отоплителна крива).</text>
+<text x="596" y="580" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">• Ако собственикът желае 40–45 °C: увеличете площта</text>
+<text x="596" y="604" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#664d03" text-anchor="start" font-weight="normal" font-style="normal">  на радиаторите ~2 пъти или добавете конвектори.</text>
+<text x="1116" y="708" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#868e96" text-anchor="end">Концептуална схема – не е проект за монтаж. Всички размери и свързвания подлежат на проверка от правоспособен проектант.</text>
+</svg>
